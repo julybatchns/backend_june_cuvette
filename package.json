@@ -1,0 +1,16 @@
+{
+  "name": "backend_june_cuvette",
+  "version": "1.0.0",
+  "description": "- 1. Node JS - JS Runtime Environment.\r - 2. Express JS - Web API Framework.\r - 3. MongoDB - NoSQL Document Database.\r - 4. CRUD - Creation (), Reading, Updating, Deleting.\r - 5. Server - API - Database.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
