@@ -24,7 +24,7 @@
 - 14. Setting Up a Basic Express Server.
 - 15. What are Middlewares?
 - 16. Using Middlewares in Express.
-- 17. What is HTTP and Other topics included?
+- 17. HTTP (Hypertext transfer Protocol)
 
 ## Packages under NPM - nodemon
 
@@ -37,3 +37,15 @@
 - 3. Single-threaded: Node.js uses a single thread to handle multiple requests concurrently by using asynchronous programming.
 
 - 4. Modules: Node.js uses the CommonJS module system to import and export code between files.
+
+### HTTP
+
+- 1. HTTP (HyperText Transfer Protocol) is the foundation of any data exchange on the web and a key concept when working with Express.js, a web framework for Node.js. In Express, you will often deal with requests and responses that conform to the HTTP protocol.
+
+- 2. HTTP Methods
+
+* GET: Retrieve information.
+* POST: Submit data to be processed.
+* PUT: Update a resource.
+* DELETE: Remove a resource.
+* PATCH: Partially update a resource.
